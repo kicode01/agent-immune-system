@@ -1,0 +1,12 @@
+{
+  "name": "agent-immune-system",
+  "version": "1.0.0",
+  "description": "Multi-generation genetic jailbreak fuzzer and AST-level tool execution firewall for AI agents.",
+  "author": {
+    "name": "Kian",
+    "url": "https://github.com/kicode01"
+  },
+  "skills": [
+    "./"
+  ]
+}
